@@ -49,11 +49,13 @@ Each criterion was scored from 0 to 2:
 - 0: Weak or absent
 - 1: Adequate or partially demonstrated
 - 2: Strongly demonstrated
+
 The 12 scores were summed to obtain an overall score out of 24:
+
 Quality level	Overall score
-Low	0–8
-Medium	9–16
-High	17–24
+- Low:	0–8
+- Medium:	9–16
+- High:	17–24
 
 These are project-defined assessment categories, not independently validated measures of student learning outcomes.
 # Using the dataset
