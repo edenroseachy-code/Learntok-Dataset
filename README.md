@@ -1,2 +1,2 @@
 # Learntok-Dashboard
-An interactive Tableau dashboard analysing audience engagement, content characteristics and educational quality across educational YouTube Shorts to support teachers in creating short-form learning content.
+A curated dataset of 636 educational YouTube Shorts across 10 subject areas, including audience engagement metrics, content characteristics and educational quality assessments.
